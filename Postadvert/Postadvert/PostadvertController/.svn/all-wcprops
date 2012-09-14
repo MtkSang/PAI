@@ -1,0 +1,461 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mobile/!svn/ver/152/Postadvert/Postadvert/PostadvertController
+END
+PostViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mobile/!svn/ver/195/Postadvert/Postadvert/PostadvertController/PostViewController.m
+END
+CredentialInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mobile/!svn/ver/158/Postadvert/Postadvert/PostadvertController/CredentialInfo.m
+END
+PostAdvertController.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/PostAdvertController.h
+END
+PostAdvertController.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/PostAdvertController.m
+END
+FlagViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/FlagViewController.h
+END
+ImageViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/ImageViewController.xib
+END
+FlagViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mobile/!svn/ver/158/Postadvert/Postadvert/PostadvertController/FlagViewController.m
+END
+ThumbnailViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/ThumbnailViewController.xib
+END
+MessageViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/MessageViewController.xib
+END
+CommentsViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/CommentsViewController.xib
+END
+MyUIImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/MyUIImageView.h
+END
+ImageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/ImageViewController.h
+END
+EnlargeImageViewControllerV2.xib
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/mobile/!svn/ver/188/Postadvert/Postadvert/PostadvertController/EnlargeImageViewControllerV2.xib
+END
+MessageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/MessageViewController.h
+END
+UICommentsCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/UICommentsCell.h
+END
+FriendsViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/mobile/!svn/ver/184/Postadvert/Postadvert/PostadvertController/FriendsViewController.xib
+END
+MyUIImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/MyUIImageView.m
+END
+ImageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mobile/!svn/ver/188/Postadvert/Postadvert/PostadvertController/ImageViewController.m
+END
+EnlargeImageViewControllerV2.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/mobile/!svn/ver/188/Postadvert/Postadvert/PostadvertController/EnlargeImageViewControllerV2.h
+END
+MessageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/MessageViewController.m
+END
+UICommentsCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/UICommentsCell.m
+END
+FriendsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mobile/!svn/ver/184/Postadvert/Postadvert/PostadvertController/FriendsViewController.h
+END
+EnlargeImageViewControllerV2.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/mobile/!svn/ver/188/Postadvert/Postadvert/PostadvertController/EnlargeImageViewControllerV2.m
+END
+FriendsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mobile/!svn/ver/184/Postadvert/Postadvert/PostadvertController/FriendsViewController.m
+END
+StatusUpdatesViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/StatusUpdatesViewController.h
+END
+SideBarViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/SideBarViewController.h
+END
+AddCommentViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/AddCommentViewController.h
+END
+UserPAInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/UserPAInfo.h
+END
+Constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mobile/!svn/ver/188/Postadvert/Postadvert/PostadvertController/Constants.h
+END
+StatusUpdatesViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/mobile/!svn/ver/157/Postadvert/Postadvert/PostadvertController/StatusUpdatesViewController.m
+END
+SideBarViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mobile/!svn/ver/190/Postadvert/Postadvert/PostadvertController/SideBarViewController.m
+END
+PostViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mobile/!svn/ver/188/Postadvert/Postadvert/PostadvertController/PostViewController.xib
+END
+AddCommentViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/mobile/!svn/ver/190/Postadvert/Postadvert/PostadvertController/AddCommentViewController.m
+END
+UserPAInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mobile/!svn/ver/157/Postadvert/Postadvert/PostadvertController/UserPAInfo.m
+END
+MyImageViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/mobile/!svn/ver/170/Postadvert/Postadvert/PostadvertController/MyImageViewController.xib
+END
+UIPostCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mobile/!svn/ver/192/Postadvert/Postadvert/PostadvertController/UIPostCell.h
+END
+LeftViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/LeftViewController.xib
+END
+MyImageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mobile/!svn/ver/186/Postadvert/Postadvert/PostadvertController/MyImageViewController.h
+END
+TakePhotoViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/TakePhotoViewController.xib
+END
+UIPostCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mobile/!svn/ver/195/Postadvert/Postadvert/PostadvertController/UIPostCell.m
+END
+LeftViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/LeftViewController.h
+END
+MyImageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mobile/!svn/ver/186/Postadvert/Postadvert/PostadvertController/MyImageViewController.m
+END
+LinkViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/LinkViewController.h
+END
+TakePhotoViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/TakePhotoViewController.h
+END
+SubLeftViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/SubLeftViewController.xib
+END
+LeftViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mobile/!svn/ver/192/Postadvert/Postadvert/PostadvertController/LeftViewController.m
+END
+LinkViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/LinkViewController.m
+END
+TakePhotoViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/TakePhotoViewController.m
+END
+SubLeftViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mobile/!svn/ver/193/Postadvert/Postadvert/PostadvertController/SubLeftViewController.h
+END
+SubLeftViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mobile/!svn/ver/193/Postadvert/Postadvert/PostadvertController/SubLeftViewController.m
+END
+EnlargeImageViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/EnlargeImageViewController.xib
+END
+EnlargeImageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/EnlargeImageViewController.h
+END
+CommentsCellContent.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/CommentsCellContent.h
+END
+ThumbnailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/ThumbnailViewController.h
+END
+EnlargeImageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/EnlargeImageViewController.m
+END
+CommentsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/CommentsViewController.h
+END
+CommentsCellContent.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/CommentsCellContent.m
+END
+ThumbnailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/ThumbnailViewController.m
+END
+CommentsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/CommentsViewController.m
+END
+DetailViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mobile/!svn/ver/170/Postadvert/Postadvert/PostadvertController/DetailViewController.xib
+END
+LinkPreview.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mobile/!svn/ver/179/Postadvert/Postadvert/PostadvertController/LinkPreview.h
+END
+DetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mobile/!svn/ver/165/Postadvert/Postadvert/PostadvertController/DetailViewController.h
+END
+SideBarViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/mobile/!svn/ver/184/Postadvert/Postadvert/PostadvertController/SideBarViewController.xib
+END
+StatusUpdatesViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/StatusUpdatesViewController.xib
+END
+LinkPreview.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mobile/!svn/ver/182/Postadvert/Postadvert/PostadvertController/LinkPreview.m
+END
+AddCommentViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/mobile/!svn/ver/188/Postadvert/Postadvert/PostadvertController/AddCommentViewController.xib
+END
+DetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mobile/!svn/ver/195/Postadvert/Postadvert/PostadvertController/DetailViewController.m
+END
+MyUIWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/MyUIWindow.h
+END
+PostCellContent.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mobile/!svn/ver/192/Postadvert/Postadvert/PostadvertController/PostCellContent.h
+END
+MyUIWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/MyUIWindow.m
+END
+UIPlaceHolderTextView.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/UIPlaceHolderTextView.h
+END
+PostViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mobile/!svn/ver/188/Postadvert/Postadvert/PostadvertController/PostViewController.h
+END
+PostCellContent.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mobile/!svn/ver/192/Postadvert/Postadvert/PostadvertController/PostCellContent.m
+END
+UIPlaceHolderTextView.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/UIPlaceHolderTextView.m
+END
+CredentialInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mobile/!svn/ver/158/Postadvert/Postadvert/PostadvertController/CredentialInfo.h
+END
+LinkViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mobile/!svn/ver/143/Postadvert/Postadvert/PostadvertController/LinkViewController.xib
+END
